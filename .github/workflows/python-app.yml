@@ -5,9 +5,9 @@ name: Python application
 
 on:
   push:
-    branches: [ master ]
+    branches: [ cookies ]
   pull_request:
-    branches: [ cmaster ]
+    branches: [ cookies ]
 
 jobs:
   build:
