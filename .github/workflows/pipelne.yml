@@ -2,9 +2,9 @@ name: Docker Image CI
 
 on:
   push:
-    branches: [ cookies ]
+    branches: [ prasanna ]
   pull_request:
-    branches: [ cookies ]
+    branches: [ prasanna ]
 
 jobs:
 
